@@ -1,0 +1,18 @@
+{
+  "name": "barai",
+  "version": "1.0.0",
+  "description": "barai",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.5",
+    "dotenv": "^16.4.5",
+    "supabase": "^1.162.4"
+  }
+}

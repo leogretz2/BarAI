@@ -1,0 +1,9 @@
+417:
+
+Tech stack:
+Frontend React
+Backend Python - reaches out 
+
+AWS Cloud?
+
+Database:
